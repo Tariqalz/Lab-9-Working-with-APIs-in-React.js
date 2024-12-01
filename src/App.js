@@ -13,6 +13,7 @@ function App() {
         <main>
           <Routes>
             <Route path="/" element={<Home />} />
+            <Route path="/Lab-9-Working-with-APIs-in-React.js" element={<Home />} />
             <Route path="/recipe-details/:id" element={<RecipeDatails />} />
           </Routes>
         </main>
