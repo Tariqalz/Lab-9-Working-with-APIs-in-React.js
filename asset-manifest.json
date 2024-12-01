@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Lab-9-Working-with-APIs-in-React.js/static/css/main.558008b1.css",
-    "main.js": "/Lab-9-Working-with-APIs-in-React.js/static/js/main.6af8e932.js",
+    "main.js": "/Lab-9-Working-with-APIs-in-React.js/static/js/main.6af35c44.js",
     "static/js/453.2c6d9ac3.chunk.js": "/Lab-9-Working-with-APIs-in-React.js/static/js/453.2c6d9ac3.chunk.js",
     "index.html": "/Lab-9-Working-with-APIs-in-React.js/index.html",
     "main.558008b1.css.map": "/Lab-9-Working-with-APIs-in-React.js/static/css/main.558008b1.css.map",
-    "main.6af8e932.js.map": "/Lab-9-Working-with-APIs-in-React.js/static/js/main.6af8e932.js.map",
+    "main.6af35c44.js.map": "/Lab-9-Working-with-APIs-in-React.js/static/js/main.6af35c44.js.map",
     "453.2c6d9ac3.chunk.js.map": "/Lab-9-Working-with-APIs-in-React.js/static/js/453.2c6d9ac3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.558008b1.css",
-    "static/js/main.6af8e932.js"
+    "static/js/main.6af35c44.js"
   ]
 }
